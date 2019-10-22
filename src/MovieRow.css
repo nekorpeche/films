@@ -1,0 +1,24 @@
+.movies-card{
+    width: 300px;
+    word-wrap: break-word;
+    height:50vh;
+    width:30vh;
+    box-shadow: 0 0 4px 0 #111;
+    margin:5px;
+    align-content: center;
+}
+.title{
+    padding: 10px;
+}
+.table{
+        text-align:center;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items:center;
+}
+
+.a{
+    color:black;
+}
